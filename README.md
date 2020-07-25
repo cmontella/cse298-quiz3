@@ -14,4 +14,4 @@ What is the input to a feedback controller? What module in the full robot system
 
 # Question 3
 
-Pretend you are an automotive engineer for Ford Mototor Company. You are test driving a new cruise control system, and you are driving around the track at 63 miles per hour. You set the cruise control to 65 miles per hour. The cruise controller takes over and speeds up to 67 miles per hour, then slows to 64 miles per hour, and finally settles at 66 miles per hour. Given this result, what adjustments would you make to the car's cruise control system to improve performance?
+Pretend you are an automotive engineer for Ford Mototor Company. You are test driving a new cruise control system, and you are driving around the test track at 63 miles per hour. You set the cruise control to 65 miles per hour. The cruise controller takes over and speeds up to 67 miles per hour, then slows to 64 miles per hour, and finally settles at 66 miles per hour. Given this result, what adjustments would you make to the car's cruise control system to improve performance?
